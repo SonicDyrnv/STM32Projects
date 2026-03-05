@@ -5,3 +5,5 @@ The project is made using STM32CubeIDE, so raw file atteched is exported from th
 |  |Images_for_1bit_seven_segment_3_counter
 |
 |--|LCD_Display_String_Pring
+|
+|--|EXTI_Pressbutton_controlled_LED_Blink
