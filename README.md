@@ -6,4 +6,4 @@ The project is made using STM32CubeIDE, so raw file atteched is exported from th
 |
 |--|LCD_Display_String_Pring
 |
-|--|EXTI_Pressbutton_controlled_LED_Blink
+|--|EXTI_Pressbutton_controlled_LEDBlink
