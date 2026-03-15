@@ -1,4 +1,8 @@
+```
 The project is made using STM32CubeIDE, so raw file atteched is exported from that software only.
+|
+|
+|--|Basic_Blinks
 |
 |--|seven_segment_onebit_sequence_counter.zip
 |  |codeused.c
@@ -7,3 +11,8 @@ The project is made using STM32CubeIDE, so raw file atteched is exported from th
 |--|LCD_Display_String_Pring
 |
 |--|EXTI_Pressbutton_controlled_LEDBlink
+|
+|--|USART|--|--|Basic_Code
+            |
+            |--|USART_ASCII_ENCODER
+```
